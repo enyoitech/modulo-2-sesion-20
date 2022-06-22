@@ -1,0 +1,86 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "description": "lavar ropa",
+      "state": false
+    },
+    {
+      "id": 3,
+      "description": "ir al supermercado",
+      "state": true
+    },
+    {
+      "description": "Lavar platos e ir al supermercado",
+      "state": true,
+      "sueldo": 5785225,
+      "id": 4
+    },
+    {
+      "description": "ir a cine",
+      "state": true,
+      "id": 5
+    },
+    {
+      "description": "ir a cine",
+      "state": false,
+      "id": 7,
+      "sueldo": 5785225
+    },
+    {
+      "description": "Lavar platos 2",
+      "state": false,
+      "id": 8
+    },
+    {
+      "description": "Lavar platos 2",
+      "state": false,
+      "id": 9
+    },
+    {
+      "description": "Lavar platos 2",
+      "state": false,
+      "id": 10
+    },
+    {
+      "description": "Lavar platos 2",
+      "state": false,
+      "id": 11
+    },
+    {
+      "description": "Lavar platos 2",
+      "state": false,
+      "id": 12
+    },
+    {
+      "description": "Lavar platos 2",
+      "state": false,
+      "id": 13
+    },
+    {
+      "description": "Lavar platos 2",
+      "state": false,
+      "id": 14
+    },
+    {
+      "description": "Lavar platos 2",
+      "state": false,
+      "id": 15
+    },
+    {
+      "description": "Lavar platos 2",
+      "state": false,
+      "id": 16
+    },
+    {
+      "description": "Lavar platos 2",
+      "state": false,
+      "id": 17
+    },
+    {
+      "description": "Lavar platos 2",
+      "state": false,
+      "id": 18
+    }
+  ]
+}
